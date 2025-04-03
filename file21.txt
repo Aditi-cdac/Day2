@@ -1,3 +1,7 @@
 This is File 21.
 What is going on , very smartly you have to work
+<<<<<<< HEAD
 Why it is happning , program is not working.
+=======
+If you are not understanding , you have to do something.
+>>>>>>> 18f717ffae27eba1ddd7eab57e741b5fd4e815e8
